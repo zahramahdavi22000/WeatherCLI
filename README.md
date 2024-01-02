@@ -13,6 +13,7 @@ tehran temp is 20°C
 ## Description
 This Python project utilizes Flask for creating a local weather API and fetching temperature data from a predefined set of cities. It consists of two main components:
 
+
 - **Client Script (`cli.py`):**
   - Fetches temperature data for a specified city using the API endpoints.
   - Allows users to input their city to get the current temperature.
@@ -26,6 +27,7 @@ This Python project utilizes Flask for creating a local weather API and fetching
 - Flask (`pip install flask`)
 - Requests (`pip install requests`)
 
+## Usage
 
 ### Server
 1. Run the `api.py` script.
